@@ -1,26 +1,51 @@
 # QA Studies
 
-This repository contains my studies and practical exercises focused on Software Quality Assurance.
+Repositório destinado ao registro da minha evolução na área de Software Quality Assurance (QA).
 
-## Current Topics
+## Objetivo
 
-- Manual Testing
-- Test Case Design
-- Bug Reports
-- API Testing (Postman)
-- Python for QA
-- Test Automation (Learning)
-- Git & GitHub
-
-## Goal
-
-Build a solid foundation in Software Quality Assurance and document my learning journey through practical exercises and projects.
+Construir um portfólio prático contendo estudos, testes, automações e documentação produzidos durante minha transição para a área de tecnologia.
 
 ---
 
-## Author
+## Estrutura
 
-Rafael Marmello
+### SQL
+Consultas SQL utilizadas para validação de dados durante testes.
 
-LinkedIn:
-https://linkedin.com/in/rafael-marmello-492809329
+### Python
+Estudos de Python voltados para automação de testes.
+
+### Postman
+Coleções e testes de APIs REST.
+
+### Automation
+Planejamento da trilha de aprendizado em automação de testes.
+
+---
+
+## Tecnologias
+
+- Python
+- SQL
+- Postman
+- Git
+- GitHub
+- APIs REST
+
+---
+
+## Próximos Projetos
+
+- Automação Web com Selenium
+- Automação de APIs
+- Testes utilizando Pytest
+- Integração com GitHub Actions
+
+---
+
+## Autor
+
+**Rafael Marmello**
+
+Em transição para Software Quality Assurance.
